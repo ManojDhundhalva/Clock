@@ -1,0 +1,40 @@
+html {
+    background: #e2ffff;
+}
+
+#myCanvas {
+    /* background-color: transparent; */
+    background-color: #c8fffe;
+    border: 2px solid #0FC2C0;
+    border-radius: 60px;
+}
+
+body {
+    margin: 0;
+}
+
+#myCanvas {
+    align-items: center;
+    justify-content: center;
+
+    /* margin-left: 100px; */
+    /* padding-left : 100px; */
+}
+
+.tempp {
+    display: flex;
+    margin-top: 2%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.myFirstClock {
+    font-size: 54px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1%;
+
+    font-family: 'Courier New', Courier, monospace;
+}
